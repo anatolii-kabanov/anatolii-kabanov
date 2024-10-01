@@ -6,8 +6,11 @@ Currently, I’m diving into the world of Web3 technologies, expanding my skills
 
 ## 💻 Technical Skills
 Languages & Frameworks: TypeScript, JavaScript, Python, C#, .NET, Node.js, React, Angular, FastAPI, Ray, Celery
+
 Databases: SQL, NoSQL, Redis
+
 Platforms & Tools: Docker, AWS, Azure, System Design
+
 
 <!--
 **anatolii-kabanov/anatolii-kabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
